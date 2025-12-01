@@ -1,0 +1,8 @@
+**/*.db
+**/*.bin
+**/*.sqlite3
+.env
+__pycache__/
+**/*.pickle
+**/*.db-shm
+**/*.db-wal
